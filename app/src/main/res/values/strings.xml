@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dismathoid2014</string>
+    <string name="app_name1">DISMATH</string>
+    <string name="app_name2">DISMATHOID</string>
+    <string name="action_settings">SETTING</string>
+    <string name="action_play">Submit</string>
+     <string name="app_logo_bottom">REFRESHER!</string>
+    <string name="app_version_info">Version 2.0\nCopyright © 2014 MKC \nAll Rights
+        Reserved.
+    </string>
+    <string name="action_help">HELP</string>
+    <string name="search_title">SEARCH</string>
+    <string name="search_hint">Search</string>
+    <string name="settings_nickname">Username:</string>
+    <string name="settings_email">Email:</string>
+    <string name="settings_dob">Birth Date:</string>
+    <string name="settings_dob_not_set">No Date Set</string>
+    <string name="settings_button_dob">Pick Date</string>
+    <string name="settings_button_pwd">Set Password</string>
+    <string name="settings_gender">Gender:</string>
+    <string name="settings_password">Password:</string>
+    <string name="settings_password2">Password (again):</string>
+    <string name="settings_pwd_set">Password Set</string>
+    <string name="settings_pwd_not_set">No Password Set</string>
+    <string name="settings_pwd_not_equal">Passwords do not match, please try again.</string>
+    <string name="settings_pwd_equal">Passwords match.</string>
+    <string name="settings_question_count">Max Number of Questions per Exam:</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_neutral">No Gender Set</string>
+    <string name="set_password_string">Set Password</string>
+    <string name="score_dialog_ok">PLAY AGAIN</string>
+    <string name="score_dialog_key">SHOW ANSWERS</string>
+    <string name="score_dialog">SCORE: \n </string>
+    <string name="action_share">SHARE</string>
+
+</resources>

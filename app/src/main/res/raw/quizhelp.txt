@@ -1,0 +1,60 @@
+DISMATH v1.0 (Beta)
+Refresher!
+
+
+DISMATH v1.0 Refresher is a multiple choice review app for basic concepts and terminologies of Discrete Mathematics. Topics include Formal Logic (Propositional and Predicate), Set theory, Number theory, Methods of proof, Combinatorial analysis, Relations, Algorithms, Growth of functions, Graph theory, Trees, and Modeling computation.
+
+
+INSTRUCTIONS:
+
+1. Read the question carefully, and then, tap it to show the options.
+
+2. Tap the letter of your choice, and proceed to the next question until you have answered all questions.
+
+3. You can review, and change your answers by simply tapping the new one.
+
+4. Once you have completed answering all questions, press the Play button in the action bar to get your score. Afterwards, you can perform either of the following actions:
+
+(a) Tap the 'Show Answers' button to display the Answer Key. If you answered the question incorrectly, then the item will be highlighted in RED color, otherwise, the color will be GREEN for correct answers.
+
+(b) Tap the 'Play Again' button to get a new set of random questions and repeat the examination.
+
+(c) Tap anywhere outside the dialog fragment to change your answers before submission.
+
+(d) Search a particular category of questions you want to review, i.e. Logic, Set, Graph, etc. Then press the Play button for a new set of questions corresponding to the selected category.
+
+(e) Change the number of questions per exam, or set your details by pressing the Settings icon in the Action Overflow icon.
+
+Note: the included user details are not yet utilized in this version but might be used in the future updates of this app.
+
+
+FEATURES:
+
+- Randomized questions and choices
+- Set the number of questions per exam
+- SQLite database of questions (initially 555 questions)
+- Search option to focus on particular DISMATH category
+
+
+SCORING:
+- 1 credit point is awarded for each correct answer; and 0 otherwise.
+- Grade commutation:
+
+Raw Percentage (%)     Grade
+    95 - 100   ******** 4.0
+    90 - 94    ********* 3.5
+    85 - 89    ********* 3.0
+    80 - 84    ********* 2.5
+    75 - 79    ********* 2.0
+    70 - 74    ********* 1.5
+    65 - 69    ********* 1.0
+   Below 65   ******** 0.0
+
+
+SUPPORT INFORMATION:
+
+DISMATH is developed by MKC.
+
+Melvin K. Cabatuan
+Phone: (+63)999-522-6213
+Email: melvincabatuan@gmail.com
